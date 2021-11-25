@@ -1,11 +1,8 @@
-# Teste-Programador-Android
+# Desafio Android Pleno 2021 AGROCP
 
-Teste-Programador-Pleno-Android
-Desafio-Programador-Pleno-2021 Desafio para vaga Desenvolvedor de Android no Grupo AgroCP
+Todas as tarefas tem que ser feitas em Kotlin
 
-Todas as tarefas tem que ser feitas em Kotlin ou Java
-
-Todas as tarefas, serão avaliadas, faça o que puder. As tarefas terão que ser entregues em dois dias desde do envio por email.
+Todas as tarefas, serão avaliadas. As tarefas terão que ser entregues em dois dias desde do envio por email.
 Desenvolver as tarefas, fazendo um fork neste repositorio, em pastas separadas, seguindo o número da tarefa, como o nome da pasta Exemplo: "tarefa-1"
 
 Tarefas:
